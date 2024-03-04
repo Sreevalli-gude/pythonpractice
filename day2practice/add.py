@@ -1,0 +1,6 @@
+n1= int(input("enter first number"))
+n2= int(input("enter second number"))
+print(n1)
+print(n2)
+n3 = int(n1) + int(n2)
+print("addition of",+n1, "$", +n2 ,"is",+n3)
